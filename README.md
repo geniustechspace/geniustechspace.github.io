@@ -1,2 +1,2 @@
-# geniustechspace.github.io
-Landing page for this organization
+# devspace
+A Landing page for Genius Tech Space
