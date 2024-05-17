@@ -41,8 +41,8 @@ jobs:
         run: |
           cp -R production-build/* geniustechspace.github.io/
           cd geniustechspace.github.io
-          git config --global user.email "your-email@example.com"
-          git config --global user.name "CI/CD download"
+          git config --global user.email "github.action@geniustechspace.com"
+          git config --global user.name "github action"
           git add .
           git commit -m "Download production build from private-repo"
           git push
